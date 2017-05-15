@@ -6,8 +6,8 @@
 2. second
 3. third
 
-*italics
-**bold
+*italics*
+**bold**
 
 Test
 
